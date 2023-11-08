@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi! :tada:
 
-<!--
-**Rusnura/Rusnura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💼 _My name is Ruslan Tumasov_  
+🥇 _I’m a programmer-enthusiast_  
+🛠️ _Currently my position is Software Engineer Team Leader_  
+👯 _We make services for German customers_  
+🤔 _I’m using Java as main language..._  
+❤️ _... but my heart busy by C and C++_ 🥰  
+⚡ _My hobby is math, electronics_  
+  
+  
+  
+😏 **Very happy see you here!**
